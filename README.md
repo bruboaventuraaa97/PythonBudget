@@ -5,9 +5,8 @@ Este repositório contém um exemplo de como usar aprendizado de máquina para p
 ##Execute o script Python planejamento_custos.py:
 
 ## Como Executar o Código
-
-   1. **Clone o repositório:**
-   ```bash
+      1. **Clone o repositório:**
+      ```bash
       git clone https://github.com/bruboaventuraaa97/PythonBudget/
 
    2. Navegue até a pasta do projeto:
