@@ -8,7 +8,8 @@ Este repositório contém um exemplo de como usar aprendizado de máquina para p
 
    1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/bruboaventuraaa97/PythonBudget/
+      git clone https://github.com/bruboaventuraaa97/PythonBudget/
+
    2. Navegue até a pasta do projeto:
 
       cd PythonBudget
