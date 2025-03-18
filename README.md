@@ -3,32 +3,31 @@
 
 Este repositório contém um exemplo de como usar aprendizado de máquina para planejar os custos de 2025 com base nos dados históricos de 2024. Utilizamos bibliotecas poderosas como **Pandas**, **Numpy** e **Scikit-learn** para construir um modelo de previsão de custos usando **RandomForestRegressor**.
 
-Execute o script Python planejamento_custos.py:
+##Execute o script Python planejamento_custos.py:
 
-Como Executar o Código
-Clone o repositório:
+## Como Executar o Código
 
-bash
-Copiar
-git clone https://github.com/bruboaventuraaa97/PythonBudget/
-Navegue até a pasta do projeto:
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/bruboaventuraaa97/PythonBudget/
+2. Navegue até a pasta do projeto:
 
-bash
-Copiar
-cd repo
-Instale as dependências:
+cd PythonBudget
 
-bash
-Copiar
+Instale as dependências: Para instalar as bibliotecas necessárias, execute o seguinte comando:
+
 pip install pandas numpy scikit-learn
-Execute o script Python planejamento_custos.py:
 
-bash
-Copiar
-python planejamento_custos.py
-Substitua os dados de exemplo pelos seus próprios dados financeiros históricos no arquivo planejamento_custos.py.
+4. Execute o script Python: Após instalar as dependências, execute o script Python planejamento_custos.py:
 
-Execute o script para treinar o modelo e prever os custos de 2025.
+   python planejamento_custos.py
+   
+5. Substitua os dados de exemplo: No arquivo planejamento_custos.py, substitua os dados de exemplo pelos seus próprios dados financeiros históricos.
+
+6. Certifique-se de que os dados contenham informações de vendas, custos e investimentos para cada mês.
+Execute novamente o script para treinar o modelo e prever os custos de 2025 com os dados atualizados.
+
+
 
 ## Explicação
 
