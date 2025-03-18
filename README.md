@@ -19,7 +19,7 @@ pip install pandas numpy scikit-learn
 
 4. Execute o script Python: Após instalar as dependências, execute o script Python planejamento_custos.py:
 
-   python planejamento_custos.py
+   python planejamentofinanceiro.py
    
 5. Substitua os dados de exemplo: No arquivo planejamento_custos.py, substitua os dados de exemplo pelos seus próprios dados financeiros históricos.
 
