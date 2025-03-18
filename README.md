@@ -1,4 +1,3 @@
-# PythonBudget
 # Planejamento de Custos com Machine Learning
 
 Este repositório contém um exemplo de como usar aprendizado de máquina para planejar os custos de 2025 com base nos dados históricos de 2024. Utilizamos bibliotecas poderosas como **Pandas**, **Numpy** e **Scikit-learn** para construir um modelo de previsão de custos usando **RandomForestRegressor**.
