@@ -11,7 +11,7 @@ Este repositório contém um exemplo de como usar aprendizado de máquina para p
 
    2. Navegue até a pasta do projeto:
 
-      cd PythonBudget
+            cd PythonBudget
 
    3.Instale as dependências: Para instalar as bibliotecas necessárias, execute o seguinte comando:
 
@@ -19,7 +19,7 @@ Este repositório contém um exemplo de como usar aprendizado de máquina para p
 
    4. Execute o script Python: Após instalar as dependências, execute o script Python planejamento_custos.py:
 
-      python planejamentofinanceiro.py
+            python planejamentofinanceiro.py
    
    5. Substitua os dados de exemplo: No arquivo planejamento_custos.py, substitua os dados de exemplo pelos seus próprios dados financeiros históricos.
 
