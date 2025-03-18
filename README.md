@@ -6,25 +6,25 @@ Este repositório contém um exemplo de como usar aprendizado de máquina para p
 
 ## Como Executar o Código
 
-1. **Clone o repositório:**
+   1. **Clone o repositório:**
    ```bash
    git clone https://github.com/bruboaventuraaa97/PythonBudget/
-2. Navegue até a pasta do projeto:
+   2. Navegue até a pasta do projeto:
 
-cd PythonBudget
+      cd PythonBudget
 
-Instale as dependências: Para instalar as bibliotecas necessárias, execute o seguinte comando:
+   3.Instale as dependências: Para instalar as bibliotecas necessárias, execute o seguinte comando:
 
-pip install pandas numpy scikit-learn
+      pip install pandas numpy scikit-learn
 
-4. Execute o script Python: Após instalar as dependências, execute o script Python planejamento_custos.py:
+   4. Execute o script Python: Após instalar as dependências, execute o script Python planejamento_custos.py:
 
-   python planejamentofinanceiro.py
+      python planejamentofinanceiro.py
    
-5. Substitua os dados de exemplo: No arquivo planejamento_custos.py, substitua os dados de exemplo pelos seus próprios dados financeiros históricos.
+   5. Substitua os dados de exemplo: No arquivo planejamento_custos.py, substitua os dados de exemplo pelos seus próprios dados financeiros históricos.
 
-6. Certifique-se de que os dados contenham informações de vendas, custos e investimentos para cada mês.
-Execute novamente o script para treinar o modelo e prever os custos de 2025 com os dados atualizados.
+   6. Certifique-se de que os dados contenham informações de vendas, custos e investimentos para cada mês.
+      Execute novamente o script para treinar o modelo e prever os custos de 2025 com os dados atualizados.
 
 
 
